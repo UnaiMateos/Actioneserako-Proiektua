@@ -7,4 +7,4 @@ COPY . .
 # Dependentziak instalatu
 # RUN pip install -r requirements.txt
 # Edukiontzia hasieratzean exekutatuko dena:
-CMD ["python", "main.py"]
+CMD ["python", "src/main.py"]
